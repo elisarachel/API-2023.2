@@ -9,7 +9,7 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 
 <h2> 📜 Product Backlog </h2>
 
-| SPRINTS | ITEM | USER STORY | STATUS |
+| SPRINT | ITEM | USER STORY | STATUS |
 | :----: | :---: | :--------: | :----: |
 | 1 | Wireframe | Como usuário, quero ter a pré-visualizção do site navegável | |
 | 1 | Wireframe | Como associação, quero ter a pré-visualização de como ficará as estatísticas | |
