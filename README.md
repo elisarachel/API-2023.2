@@ -1,5 +1,3 @@
-# API_1
-
 <h1> FATEC Prof. Jessen Vidal - São José dos Campos - 1º Semestre DSM </h1>
 Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 1° semestre de Desenvolvimento de Software Multiplataforma (DSM) que consiste em um site que reune informações sobre a Insuficiência Renal Crônica em crianças para o acesso pelos seus cuidadores.
 
