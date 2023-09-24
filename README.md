@@ -3,11 +3,11 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 1° seme
 
 <br>
 
-### ⚠ Status do projeto: 1/4 Sprint ⏳
+### ⌛ Status do projeto: 1/4 Sprint
 
 <br>
 
-## 📑Sumário
+## 📑 Sumário
 - [Sobre o projeto](#sobre-o-projeto)
 - [Tecnologias usadas](#tecnologias)
 - [MVP](#mvp)
@@ -18,13 +18,13 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 1° seme
 <br>
 <br>
 
-## 📢Sobre o Projeto <a name="sobre-o-projeto"></a>
+## 📢 Sobre o Projeto <a name="sobre-o-projeto"></a>
 
 Nosso projeto consiste em um site que reune dados e informações sobre a Insuficiência Renal Crônica Pediátrica. Esse projeto é destinado aos pais e cuidadores de crianças que possuem essa doença, para que possa auxiliá-los com informações úteis e atualizadas.
 
 <br>
 
-## 🛠Tecnologias usadas até o momento <a name="tecnologias"></a>
+## 🛠 Tecnologias usadas até o momento <a name="tecnologias"></a>
 - [Figma](http://www.figma.com): Execução do protótipo do wireframe
 - [GitHub](https://github.com): Versionamento e documentação do projeto
 - [Slack](https://slack.com/intl/pt-br): Contato com o cliente
@@ -32,7 +32,9 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 
 <br>
 
-## 💻MVP<a name="mvp"></a>
+## 💻 MVP<a name="mvp"></a>
+### 🔴 <a href="https://www.figma.com/proto/2V0EagZNOnDKmTYD8IoKec/Untitled?type=design&node-id=1-2&t=i9T20ykwzhpxgliv-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A2&mode=design" target="_blank">Teste nosso wireframe</a>
+
 <img src="docs/wireframe-mvp.gif"/>
 
 <br>
@@ -57,7 +59,7 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 
 <br>
 
-## 🌐Autores <a name="autores"></a>
+## 🌐 Autores <a name="autores"></a>
 |  Foto  |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
 | :----: | :-----------: | :-----------------------: | :------------------------------------------------------------: | :-----------------------------------------------: |
 | <img src=""> | Scrum Master  | Fábio Kenjy Sato Lucas |             | [GitHub]()           |
