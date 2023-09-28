@@ -1,0 +1,155 @@
+body {
+	background-color: #353F44;
+	color: #FFFEFB;
+}
+
+* {
+	font-family: 'Lexend', sans-serif;
+}
+
+#header {
+	background-color: #DE4C4D;
+	min-width: 100%;
+	min-height: 88px;
+	margin: 0;
+}
+
+.header_frame {
+	display: flex;
+	flex-direction: row;
+	justify-content: flex-end;
+	align-items: center;
+	padding: 22px 63px 0;
+	gap: 86px;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+a.active {
+	color: #DE4C4D;
+	background-color: #FFFEFB;
+	padding: 4px 18px;
+	border-radius: 29px;
+	text-decoration: none;
+}
+
+a.navi {
+	color: #FFFEFB;
+	text-decoration: none;
+}
+
+p {
+	font-weight: 300;
+	text-align: justify;
+}
+
+.body {
+	display: flex;
+	justify-content: center;
+	flex-direction: column;
+	align-items: center;
+	gap: 43px;
+	margin: 50px 40px;
+}
+
+.card-grande {
+	display: flex;
+	box-shadow: 6px 7px 27px rgba(0, 0, 0, 0.25);
+	border-radius: 21px;
+	background-color: #2C373C;
+}
+
+.card-grande_frame {
+	padding: 60px;
+}
+
+.cards {
+	display: flex;
+	gap: 40px;
+}
+
+.card-informacoes {
+	display: flex;
+	flex-direction: column;
+	border-radius: 21px;
+	box-shadow: 6px 7px 27px rgba(0, 0, 0, 0.25);
+	background-color: #2C373C;
+}
+
+.card-informacoes_frame {
+	margin: 20px 40px;
+}
+
+.login {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	padding: 40px;
+	border-radius: 21px;
+	box-shadow: 6px 7px 27px rgba(0, 0, 0, 0.25);
+	background-color: #2C373C;
+	margin: 40px;
+	max-width: 486px;
+	align-items: center;
+	gap: 15px;
+}
+
+a.login_botao {
+	color: #FFFEFB;
+	background-color: #95A074;
+	padding: 10px 22px;
+	border-radius: 29px;
+	text-decoration: none;
+}
+
+a.login_cadastro {
+	color: #FFFEFB;
+	text-decoration: underline;
+}
+
+.dados {
+	display: flex;
+	gap: 30px;
+	margin: 50px auto;
+	justify-content: center;
+}
+
+.coluna {
+	display: flex;
+	flex-direction: column;
+	gap: 50px;
+}
+
+a.item {
+	padding: 15px 30px;
+	background-color: #2C373C;
+	text-decoration: none;
+	color: #FFFEFB;
+	box-shadow: 6px 7px 27px rgba(0, 0, 0, 0.25);
+	border-radius: 31px;
+}
+
+.titulos {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	justify-content: left;
+	margin: 0 40px;
+}
+
+span {
+	text-transform: uppercase;
+}
+
+.blog {
+	margin: 40px;
+}
+
+h2.blog {
+	font-weight: 400;
+}
+
+.estado {
+	display: flex;
+	gap: 85px;
+}
