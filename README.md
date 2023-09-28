@@ -62,9 +62,9 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 ## 🌐 Autores <a name="autores"></a>
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
 | :----: | :-----------: | :-----------------------: | :------------------------------------------------------------: | :-----------------------------------------------: |
-| <img src="imagens-readme/fotos-integrantes/fabio.jpeg" width="50px"> | Scrum Master  | Fábio Kenjy Sato Lucas |  [Linkedin](https://www.linkedin.com/in/fabio-kenjy/)  | [GitHub](https://github.com/FabioKenjjy)           |
-| <img src="imagens-readme/fotos-integrantes/Elisa.jpeg" width="50px"> | Product Owner | Elisa Rachel Beninca Martins |  [Linkedin](https://www.linkedin.com/in/elisa-rachel-beninca-martins-704566292/)  | [GitHub](https://github.com/elisarachel) |
-| <img src="imagens-readme/fotos-integrantes/ana.jpeg" width="50px">   | Dev Team | Ana Claudia Ribeiro Reis |  [Linkedin]()  | [GitHub](https://github.com/anaclaudiarr/anaclaudiarr)          |
+| <img src="docs/imagens-readme/fotos-integrantes/fabio.jpeg" width="50px"> | Scrum Master  | Fábio Kenjy Sato Lucas |  [Linkedin](https://www.linkedin.com/in/fabio-kenjy/)  | [GitHub](https://github.com/FabioKenjjy)           |
+| <img src="docs/imagens-readme/fotos-integrantes/Elisa.jpeg" width="50px"> | Product Owner | Elisa Rachel Beninca Martins |  [Linkedin](https://www.linkedin.com/in/elisa-rachel-beninca-martins-704566292/)  | [GitHub](https://github.com/elisarachel) |
+| <img src="docs/imagens-readme/fotos-integrantes/ana.jpeg" width="50px">   | Dev Team | Ana Claudia Ribeiro Reis |  [Linkedin]()  | [GitHub](https://github.com/anaclaudiarr/anaclaudiarr)          |
 | <img src=""> | Dev Team      | José Gustavo Cunha dos Santos |  [Linkedin]()  |  [GitHub]()  |
-| <img src="imagens-readme/fotos-integrantes/cleyton.jpeg" width="50px">|Dev Team| Cleyton Alves Ferreira Junior |  [Linkedin](https://www.linkedin.com/in/clayton-junior-profile)  | [GitHub](https://github.com/ClaytonJR18/ClaytonJR18)  |
+| <img src="docs/imagens-readme/fotos-integrantes/cleyton.jpeg" width="50px">|Dev Team| Cleyton Alves Ferreira Junior |  [Linkedin](https://www.linkedin.com/in/clayton-junior-profile)  | [GitHub](https://github.com/ClaytonJR18/ClaytonJR18)  |
 | <img src=""> | Dev Team      | Guilherme Luz Guimarães |  [Linkedin]()  | [GitHub](http://github.com/GuilhermeLGuimaraes)    |
