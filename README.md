@@ -48,7 +48,7 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 | 1 | Product Backlog | Como cliente, quero saber quando cada etapa do projeto ficará pronta | ✔ |
 | 2 | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | |
 | 2 | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | |
-| 2 | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | |
+| 2 | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | ✔ |
 | 2 | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | |
 | 3 | Página de login | Como usuário, quero poder criar uma conta para postar meus relatos | |
 | 3 | Página do Blog | Como usuário logado, quero poder ver minhas públicações antigas em um só lugar | |
