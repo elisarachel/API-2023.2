@@ -67,4 +67,4 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 | <img src="docs/imagens-readme/fotos-integrantes/ana.jpeg" width="50px">   | Dev Team | Ana Claudia Ribeiro Reis |  [Linkedin]()  | [GitHub](https://github.com/anaclaudiarr/anaclaudiarr)          |
 | <img src=""> | Dev Team      | José Gustavo Cunha dos Santos |  [Linkedin]()  |  [GitHub]()  |
 | <img src="docs/imagens-readme/fotos-integrantes/cleyton.jpeg" width="50px">|Dev Team| Cleyton Alves Ferreira Junior |  [Linkedin](https://www.linkedin.com/in/clayton-junior-profile)  | [GitHub](https://github.com/ClaytonJR18/ClaytonJR18)  |
-| <img src=""> | Dev Team      | Guilherme Luz Guimarães |  [Linkedin](www.linkedin.com/in/guilherme-guimarães1)  | [GitHub](http://github.com/GuilhermeLGuimaraes)    |
+| <img src=""> | Dev Team      | Guilherme Luz Guimarães |  [Linkedin](www.linkedin.com/in/guilherme-guimarães-0166a3294)  | [GitHub](http://github.com/GuilhermeLGuimaraes)    |
