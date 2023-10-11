@@ -46,7 +46,7 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 | US01 | 1 | Wireframe | Como usuário, quero ter a pré-visualizção do site navegável | ✔ |
 | US02 | 1 | Wireframe | Como associação, quero ter a pré-visualização de como ficará as estatísticas | ✔ |
 | US03 | 1 | Product Backlog | Como cliente, quero saber quando cada etapa do projeto ficará pronta | ✔ |
-| US04 | 2 | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | |
+| US04 | 2 | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | ✔ |
 | US05 | 2 | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | |
 | US06 | 2 | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | ✔ |
 | US07 | 2 | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | |
