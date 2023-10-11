@@ -41,21 +41,21 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 
 ## 📜 Product Backlog<a name="product-backlog"></a>
 
-| SPRINT | ITEM | USER STORY | STATUS |
-| :----: | :---: | :--------: | :----: |
-| 1 | Wireframe | Como usuário, quero ter a pré-visualizção do site navegável | ✔ |
-| 1 | Wireframe | Como associação, quero ter a pré-visualização de como ficará as estatísticas | ✔ |
-| 1 | Product Backlog | Como cliente, quero saber quando cada etapa do projeto ficará pronta | ✔ |
-| 2 | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | |
-| 2 | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | |
-| 2 | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | ✔ |
-| 2 | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | |
-| 3 | Página de login | Como usuário, quero poder criar uma conta para postar meus relatos | |
-| 3 | Página do Blog | Como usuário logado, quero poder ver minhas públicações antigas em um só lugar | |
-| 3 | Página do Blog | Como tutor, quero poder ler relatos de outras mães para poder me guiar | |
-| 4 | Pesquisa | Como usuário, quero facilmente poder encontrar as clínicas mais próximas de mim | |
-| 4 | Pesquisa | Como usuário, quero ter uma ferramenta de pesquisa por palavras-chave para encontrar informações específicas com facilidade | |
-| 4 | Página de login | Como usuário, quero poder trocar minha senha futuramente, caso seja necessário, sem a necessidade de criar uma nova conta e perder a antiga | |
+| ID | SPRINT | ITEM | USER STORY | STATUS |
+| :---: | :----: | :---: | :--------: | :----: |
+| US01 | 1 | Wireframe | Como usuário, quero ter a pré-visualizção do site navegável | ✔ |
+| US02 | 1 | Wireframe | Como associação, quero ter a pré-visualização de como ficará as estatísticas | ✔ |
+| US03 | 1 | Product Backlog | Como cliente, quero saber quando cada etapa do projeto ficará pronta | ✔ |
+| US04 | 2 | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | |
+| US05 | 2 | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | |
+| US06 | 2 | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | ✔ |
+| US07 | 2 | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | |
+| US08 | 3 | Página de login | Como usuário, quero poder criar uma conta para postar meus relatos | |
+| US09 | 3 | Página do Blog | Como usuário logado, quero poder ver minhas públicações antigas em um só lugar | |
+| US10 | 3 | Página do Blog | Como tutor, quero poder ler relatos de outras mães para poder me guiar | |
+| US11 | 4 | Pesquisa | Como usuário, quero facilmente poder encontrar as clínicas mais próximas de mim | |
+| US12 | 4 | Pesquisa | Como usuário, quero ter uma ferramenta de pesquisa por palavras-chave para encontrar informações específicas com facilidade | |
+| US13 | 4 | Página de login | Como usuário, quero poder trocar minha senha futuramente, caso seja necessário, sem a necessidade de criar uma nova conta e perder a antiga | |
 
 <br>
 
