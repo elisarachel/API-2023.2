@@ -47,8 +47,8 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 | 2 | 1 | Média | Wireframe | Como associação, quero ter a pré-visualização de como ficará as estatísticas | ✔ |
 | 3 | 1 | Alta |Product Backlog | Como cliente, quero saber quando cada etapa do projeto ficará pronta | ✔ |
 | 4 | 2 | Alta | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | ✔ |
-| 5 | 2 | Alta | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | |
-| 6 | 2 | Alta | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | ✔ |
+| 5 | 2 | Alta | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | ✔ |
+| 6 | 2 | Alta | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | |
 | 7 | 2 | Baixa | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | |
 | 8 | 3 | Alta | Página de login | Como usuário, quero poder criar uma conta para postar meus relatos | |
 | 9 | 3 | Média | Página do Blog | Como usuário logado, quero poder ver minhas públicações antigas em um só lugar | |
