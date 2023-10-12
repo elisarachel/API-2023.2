@@ -137,8 +137,7 @@ a.item {
 	display: flex;
 	flex-direction: column;
 	gap: 10px;
-	justify-content: left;
-	margin: 0 40px;
+	margin: 0 50px;
 }
 
 span {
