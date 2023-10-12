@@ -168,3 +168,9 @@ a.minhaconta {
 	text-decoration: none;
 	color: #FFFEFB;
 }
+
+.post {
+	display: flex;
+	margin: 40px 40px;
+	flex-direction: column;
+}
