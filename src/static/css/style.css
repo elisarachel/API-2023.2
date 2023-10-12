@@ -115,8 +115,7 @@ a.login_cadastro {
 .dados {
 	display: flex;
 	gap: 30px;
-	margin: 50px auto;
-	justify-content: center;
+	margin: 50px 40px;
 }
 
 .coluna {
