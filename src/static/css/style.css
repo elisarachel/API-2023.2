@@ -174,3 +174,13 @@ a.minhaconta {
 	margin: 40px 40px;
 	flex-direction: column;
 }
+
+table{
+	width: 500px;
+}
+
+td{
+	padding: 10px;
+	border: 1px solid white;
+	text-align: center;
+}
