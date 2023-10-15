@@ -3,7 +3,7 @@ Projeto desenvolvido para a API (Aprendizagem por Projeto Integrado) do 1° seme
 
 <br>
 
-### ⌛ Status do projeto: 1/4 Sprint
+### ⌛ Status do projeto: 2/4 Sprint
 
 <br>
 
@@ -28,7 +28,9 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 - [Figma](http://www.figma.com): Execução do protótipo do wireframe
 - [GitHub](https://github.com): Versionamento e documentação do projeto
 - [Slack](https://slack.com/intl/pt-br): Contato com o cliente
-- [Planner](https://tasks.office.com/): Organização das tarefas do grupo 
+- [Planner](https://tasks.office.com/): Organização das tarefas do grupo
+- HTML
+- CSS
 
 <br>
 
@@ -48,8 +50,8 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 | 3 | 1 | Alta |Product Backlog | Como cliente, quero saber quando cada etapa do projeto ficará pronta | ✔ |
 | 4 | 2 | Alta | Menu | Como usuário, quero ter um menu para poder acessar as diferentes partes do site mais facilmente | ✔ |
 | 5 | 2 | Alta | Página Home | Como usuário, quero uma introdução no site quando entrar para me localizar na página e ter uma navegação mais fácil | ✔ |
-| 6 | 2 | Alta | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | |
-| 7 | 2 | Baixa | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | |
+| 6 | 2 | Alta | Dados e estatísticas | Como usuário, quero ter acesso a dados relacionados à insuficiência renal pediátrica para poder me informar | ✔ |
+| 7 | 2 | Baixa | Dados e Estatísticas | Como usuário, quero referências bibliográficas das estastíticas para me direcionar para onde foi encontrada a informação | ✔ |
 | 8 | 3 | Alta | Página de login | Como usuário, quero poder criar uma conta para postar meus relatos | |
 | 9 | 3 | Média | Página do Blog | Como usuário logado, quero poder ver minhas públicações antigas em um só lugar | |
 | 10 | 3 | Alta | Página do Blog | Como tutor, quero poder ler relatos de outras mães para poder me guiar | |
@@ -58,6 +60,13 @@ Nosso projeto consiste em um site que reune dados e informações sobre a Insufi
 | 13 | 4 | Baixa | Página de login | Como usuário, quero poder trocar minha senha futuramente, caso seja necessário, sem a necessidade de criar uma nova conta e perder a antiga | |
 
 <br>
+
+## Instruções de instalação
+Clone o repositório:
+```
+git clone https://github.com/elisarachel/API-2023.2.git
+```
+Abra o arquivo home.html no seu navegador que se encontra na pasta src/templates.
 
 ## 🌐 Autores <a name="autores"></a>
 |  Foto        |     Função    |           Nome            |                            LinkedIn                            |                      GitHub                       |
