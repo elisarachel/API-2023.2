@@ -68,7 +68,7 @@ p {
 
 .cards {
 	display: flex;
-	gap: 40px;
+	gap: 80px;
 }
 
 .card-informacoes {
@@ -83,6 +83,8 @@ p {
 
 .card-informacoes_frame {
 	margin: 20px 40px;
+		max-width: 300px;
+
 }
 
 .login {
